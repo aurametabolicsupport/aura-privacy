@@ -1,6 +1,6 @@
 Privacy Policy — AURA Metabolic
-Effective date: [15.10.2026]Developer: [Sergey D]Contact: [aurametabolicsupport@gmail.com
-]
+Effective date: 15.10.2026 Developer: Sergey D Contact: aurametabolicsupport@gmail.com
+
 
 This Privacy Policy explains how AURA Metabolic ("the App", "we", "us") handlesyour information. We designed the App to collect as little data as possible:your food diary is stored only on your device, and we never see it.
 
@@ -47,7 +47,7 @@ We process: (a) food photos — to perform the service you request (contract);(b
 International transfers to Google services are covered by Google's standardcontractual clauses (Google Cloud Data Processing Terms).
 
 8. Your rights
-Depending on your jurisdiction (e.g. GDPR, CCPA/CPRA), you may have rights toaccess, correct, delete, or port your personal data. Since we hold almost noidentifiable data, most requests concern analytics data, which you can resetby reinstalling the App or deleting your advertising ID in device settings.To exercise any right or ask a question, email [SUPPORT_EMAIL]. We respondwithin 30 days. We do not sell personal information (CCPA/CPRA "sale" and"sharing") and have not done so in the last 12 months.
+Depending on your jurisdiction (e.g. GDPR, CCPA/CPRA), you may have rights toaccess, correct, delete, or port your personal data. Since we hold almost noidentifiable data, most requests concern analytics data, which you can resetby reinstalling the App or deleting your advertising ID in device settings.To exercise any right or ask a question, email aurametabolicsupport@gmail.com. We respondwithin 30 days. We do not sell personal information (CCPA/CPRA "sale" and"sharing") and have not done so in the last 12 months.
 
 9. Security
 Data in transit is encrypted (HTTPS/TLS). Diary data never leaves your device.Access to our server infrastructure is restricted.
@@ -56,4 +56,4 @@ Data in transit is encrypted (HTTPS/TLS). Diary data never leaves your device.Ac
 We may update this policy as the App evolves. We will post the new versionhere with a new effective date. Material changes will be announced in the App.
 
 11. Contact
-[Sergey D] — [aurametabolicsupport@gmail.com]
+Sergey D — aurametabolicsupport@gmail.com
