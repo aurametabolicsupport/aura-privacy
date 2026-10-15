@@ -13,7 +13,7 @@ Content produced by the App — including calories, macronutrients, glycemicinde
 Nutritional estimates are produced by machine-learning models and may beinaccurate, incomplete, or unavailable. We do not guarantee the accuracy,completeness, or availability of any analysis.
 
 4. Subscriptions
-The App may offer auto-renewing subscriptions. Payment is charged through yourapp store account at confirmation of purchase; the subscription renewsautomatically unless cancelled at least 24 hours before the end of the currentperiod. You can manage or cancel subscriptions in your device's store settings.Free trials, if offered, convert to a paid subscription unless cancelledbefore they end. Links: Privacy Policy — https://[YOUR_URL]/ ; Terms — this page.
+The App may offer auto-renewing subscriptions. Payment is charged through yourapp store account at confirmation of purchase; the subscription renewsautomatically unless cancelled at least 24 hours before the end of the currentperiod. You can manage or cancel subscriptions in your device's store settings.Free trials, if offered, convert to a paid subscription unless cancelledbefore they end. Links: Privacy Policy — https://github.com/aurametabolicsupport/aura-privacy/blob/main/privacy-policy.md/ ; Terms — this page.
 
 5. Your content
 You retain all rights to photos and entries you create. You grant us a limited,transient license to process uploaded photos solely to provide the analysis.Your diary stays on your device.
