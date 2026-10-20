@@ -1,5 +1,5 @@
 Terms of Use — AURA Metabolic
-Effective date: [15.10.2026]
+Effective date: 20.10.2026
 
 By using AURA Metabolic ("the App"), you agree to these Terms.
 
@@ -22,10 +22,10 @@ You retain all rights to photos and entries you create. You grant us a limited,t
 You agree not to abuse the service (including automated bulk requests,attempting to disrupt the service, or extracting the AI service for useelsewhere). We may rate-limit or suspend access for abuse.
 
 7. Limitation of liability
-To the maximum extent permitted by law, the App is provided "as is" withoutwarranties of any kind, and [Sergey D] shall not be liable for anyindirect, incidental, or consequential damages, or for any decisions madebased on App content.
+To the maximum extent permitted by law, the App is provided "as is" withoutwarranties of any kind, and Sergey D shall not be liable for anyindirect, incidental, or consequential damages, or for any decisions madebased on App content.
 
 8. Governing law
-These Terms are governed by the laws of [Ukraine], without regard to conflictof law rules.
+These Terms are governed by the laws of Ukraine, without regard to conflictof law rules.
 
 9. Contact
-[aurametabolicsupport@gmail.com]
+aurametabolic@gmail.com
