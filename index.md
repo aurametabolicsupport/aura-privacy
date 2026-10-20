@@ -1,5 +1,5 @@
 Privacy Policy — AURA Metabolic
-Effective date: 15.10.2026 
+Effective date: 20.10.2026 
 Developer: Sergey D 
 Contact: aurametabolic@gmail.com
 
